@@ -1,3 +1,7 @@
+## About
+
+This repository contains the code developed as part of a 6-week research project funded by a Carnegie Trust scholarship, investigating the simulation of fractional Brownian motion (fBm).
+
 ## Repository Index
 
 | File | Description |
