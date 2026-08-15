@@ -1,6 +1,6 @@
 ## About
 
-This repository contains the code developed as part of a 6-week research project funded by a Carnegie Trust scholarship, where we adapted the lifted Heston model to implement a novel Markovian approximation to true stationary fBm. 
+This repository contains the code developed as part of a 6-week research project funded by a Carnegie Trust scholarship, where we adapted the lifted Heston model to implement a novel Markovian approximation to true **stationary** fBm. 
 
 
 ## Repository Index
