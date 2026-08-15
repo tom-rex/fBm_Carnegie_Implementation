@@ -1,6 +1,7 @@
 ## About
 
-This repository contains the code developed as part of a 6-week research project funded by a Carnegie Trust scholarship, investigating the simulation of fractional Brownian motion (fBm) and it's applications in volatility modelling.
+This repository contains the code developed as part of a 6-week research project funded by a Carnegie Trust scholarship, where we adapted the lifted Heston model to implement a novel Markovian approximation to true stationary fBm. 
+
 
 ## Repository Index
 
