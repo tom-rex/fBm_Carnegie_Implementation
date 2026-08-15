@@ -9,6 +9,5 @@ This repository contains the code developed as part of a 6-week research project
 | `Cholesky_Simulation.ipynb` | Simulates fractional Brownian motion (fBm) using the Cholesky decomposition method. |
 | `Davies_Harte_Simulation.ipynb` | Simulates fBm using the Davies-Harte method. |
 | `DMA_identification.ipynb` | **(Unfinished)** Implementation of the DMA (Detrended Moving Average) paper, performing a hypothesis test for whether a given path is fBm. |
-| `fBm_ou.py` | Contains the helper functions used by `fBm_OU_approx.ipynb`. |
 | `OU_fBm__approx.ipynb` | Simulates fBm as a superposition of OU processes.|
 
