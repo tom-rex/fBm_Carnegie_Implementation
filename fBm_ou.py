@@ -6,10 +6,9 @@ from scipy.special import gamma
 
 # weights for the OU superposition approximation of the kernel (t-u)^{H-1/2}
 def OU_weights(H, r, n):
-    a = H + 0.5
     j = np.arange(-n + 1, n + 1)
-    beta = r**(j - 1)
-    weights = (1/gamma(0.5 - H)) * r**((1 - a)*(j - 1)) * (r**(1 - a) - 1)/(1 - a)
+    beta = r**j
+    weights = (1/gamma(0.5 - H)) * r**((0.5 - H)*(j - 1)) * (r**(0.5 - H) - 1)/(0.5 - H)
     return beta, weights
 
 
