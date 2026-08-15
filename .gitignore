@@ -1,0 +1,28 @@
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
